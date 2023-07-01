@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hi]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-21T01:53:35 IST" name="Default suite" finished-at="2023-06-21T01:53:35 IST" duration-ms="56">
+    <groups>
+    </groups>
+    <test started-at="2023-06-21T01:53:35 IST" name="Default test" finished-at="2023-06-21T01:53:35 IST" duration-ms="56">
+      <class name="actitime.demo">
+        <test-method signature="testDemo()[pri:0, instance:actitime.demo@408d971b]" started-at="2023-06-21T01:53:35 IST" name="testDemo" finished-at="2023-06-21T01:53:35 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hi]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testDemo -->
+      </class> <!-- actitime.demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
